@@ -15,6 +15,6 @@ docker compose up --build -d
 - Host: `localhost:5432`
 - Database: `bigdata_snowflake`
 - User: `bigdata_user`
-- Password: `bigdata_password`
+- Password: `bigdata_pass`
 
 БД автоматически заполняется при запуске (около 30 секунд).
