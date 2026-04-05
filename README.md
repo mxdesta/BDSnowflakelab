@@ -12,7 +12,7 @@ docker compose up --build -d
 
 ## Подключение к БД
 
-- Host: `localhost:5433`
+- Host: `localhost:5432`
 - Database: `bigdata_snowflake`
 - User: `bigdata_user`
 - Password: `bigdata_password`
